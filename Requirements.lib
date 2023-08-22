@@ -1,1 +1,9 @@
-
+   💼Required Liraries
+Python
+Pandas
+Snscrape(snscrape.modules.twitter)
+Streamlit
+JSON
+CSV
+Pymongo
+Datetime
